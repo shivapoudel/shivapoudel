@@ -10,4 +10,4 @@ I'm Shiva Poudel - a developer working with WordPress Since 2011. I am involved 
 
 ### Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=shivapoudel&show_icons=true&include_all_commits=true&hide=stars&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivapoudel&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivapoudel&layout=compact&card_width=290)](https://github.com/anuraghazra/github-readme-stats)
